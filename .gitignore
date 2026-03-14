@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Streamlit/Database
+data/chat_history.db
+uploads/
+
+# Môi trường ảo (nếu có)
+venv/
+.env
